@@ -1,0 +1,21 @@
+{
+  "name": "geojson-geometry-lookup",
+  "version": "0.1.0",
+  "description": "Simple express server wrapper around a polygon lookup in a geojson file",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "polygon-lookup": "git+https://github.com/benkaiser/polygon-lookup.git"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benkaiser/geojson-geometry-lookup.git"
+  },
+  "author": "Benjamin Kaiser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benkaiser/geojson-geometry-lookup/issues"
+  },
+  "homepage": "https://github.com/benkaiser/geojson-geometry-lookup#readme"
+}
